@@ -34,7 +34,7 @@ document.getElementById('simForm').addEventListener('submit', (event) => {
 *Finalidade:* ${property}
 *Mensagem:* ${message}`;
 
-  window.open(`https://wa.me/5534993365599?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
+  window.open(`https://wa.me/5534988617439?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
 });
 
 document.getElementById('year').textContent = new Date().getFullYear();
